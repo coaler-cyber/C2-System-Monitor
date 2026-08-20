@@ -1,0 +1,6 @@
+__pycache__/
+*.exe
+*.o
+monitor.db
+dist/
+build/
